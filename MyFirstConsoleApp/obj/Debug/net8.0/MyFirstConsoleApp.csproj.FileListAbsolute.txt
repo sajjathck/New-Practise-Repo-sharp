@@ -1,0 +1,14 @@
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
