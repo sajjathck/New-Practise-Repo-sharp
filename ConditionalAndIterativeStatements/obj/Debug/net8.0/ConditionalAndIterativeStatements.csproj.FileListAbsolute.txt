@@ -1,0 +1,14 @@
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\bin\Debug\net8.0\ConditionalAndIterativeStatements.exe
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\bin\Debug\net8.0\ConditionalAndIterativeStatements.deps.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\bin\Debug\net8.0\ConditionalAndIterativeStatements.runtimeconfig.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\bin\Debug\net8.0\ConditionalAndIterativeStatements.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\bin\Debug\net8.0\ConditionalAndIterativeStatements.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.AssemblyInfoInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.AssemblyInfo.cs
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\refint\ConditionalAndIterativeStatements.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ConditionalAndIterativeStatements.genruntimeconfig.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\ConditionalAndIterativeStatements\obj\Debug\net8.0\ref\ConditionalAndIterativeStatements.dll

@@ -1,0 +1,14 @@
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfoInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfo.cs
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.exe
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.deps.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.runtimeconfig.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\refint\HandsOnArrays.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.genruntimeconfig.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnArrays\obj\Debug\net8.0\ref\HandsOnArrays.dll
