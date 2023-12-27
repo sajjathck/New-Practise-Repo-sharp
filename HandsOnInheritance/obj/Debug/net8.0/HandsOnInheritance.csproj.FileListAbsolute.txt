@@ -1,0 +1,14 @@
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.exe
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.deps.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.runtimeconfig.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfoInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfo.cs
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\refint\HandsOnInheritance.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.genruntimeconfig.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\HandsOnInheritance\obj\Debug\net8.0\ref\HandsOnInheritance.dll
