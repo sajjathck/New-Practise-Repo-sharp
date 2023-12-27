@@ -1,0 +1,14 @@
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\bin\Debug\net8.0\StringPractise.exe
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\bin\Debug\net8.0\StringPractise.deps.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\bin\Debug\net8.0\StringPractise.runtimeconfig.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\bin\Debug\net8.0\StringPractise.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\bin\Debug\net8.0\StringPractise.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.AssemblyInfoInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.AssemblyInfo.cs
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\refint\StringPractise.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\StringPractise.genruntimeconfig.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day1\HandsOn\StringPractise\obj\Debug\net8.0\ref\StringPractise.dll
