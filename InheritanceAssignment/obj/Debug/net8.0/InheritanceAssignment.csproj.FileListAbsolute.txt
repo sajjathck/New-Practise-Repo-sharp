@@ -1,0 +1,15 @@
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.exe
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.deps.json
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.runtimeconfig.json
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.dll
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.pdb
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.sourcelink.json
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.dll
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\refint\InheritanceAssignment.dll
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.pdb
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.genruntimeconfig.cache
+C:\Users\msajjadc\iprimed\New-Practise-Repo-sharp\InheritanceAssignment\obj\Debug\net8.0\ref\InheritanceAssignment.dll

@@ -36,10 +36,10 @@ Create  a Console Application to arrive at the Solution.
     {
         public int OrderId;
         public DateTime OrderDate;
-        public string FurnitureType;    
+        public string? FurnitureType;    
         public int Qty;
         public double TotalAmt;
-        public string PaymentMode;
+        public string? PaymentMode;
 
         public virtual void GetData()
         {
@@ -47,8 +47,6 @@ Create  a Console Application to arrive at the Solution.
             OrderId = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Order Date:");
             OrderDate = DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("Enter Furniture Type (Chair/Cot):");
-            FurnitureType = Console.ReadLine();
             Console.WriteLine("Enter Quantity:");
             Qty = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Total Amount:");
@@ -69,8 +67,8 @@ Create  a Console Application to arrive at the Solution.
     }
     public class Chair : Furniture
     {
-        public string ChairType;
-        public string Purpose;
+        public string? ChairType;
+        public string? Purpose;
         public double Rate;
         public override void GetData()
         {
@@ -92,13 +90,12 @@ Create  a Console Application to arrive at the Solution.
     }
     class Cot : Furniture
     {
-        public string CotType;
-        public string Capacity;
+        public string? CotType;
+        public string? Capacity;
         public double Rate;
         public override void GetData()
         {
             base.GetData();
-
             Console.WriteLine("Enter Cot Type (Wood/Steel):");
             CotType = Console.ReadLine();
             Console.WriteLine("Enter Capacity (Single/Double):");
@@ -122,7 +119,7 @@ Create  a Console Application to arrive at the Solution.
 
             Console.WriteLine("Enter Furniture Details:");
             Console.WriteLine("Choose Furniture Type (Chair/Cot):");
-            string furnitureType = Console.ReadLine();
+            string? furnitureType = Console.ReadLine();
 
             if (furnitureType.ToLower() == "chair")
             {
