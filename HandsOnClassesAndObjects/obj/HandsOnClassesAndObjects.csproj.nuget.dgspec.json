@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msajjadc\\Desktop\\SajjathCK\\Day1\\HandsOn\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj": {}
+    "C:\\Users\\msajjadc\\iprimed\\New-Practise-Repo-sharp\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msajjadc\\Desktop\\SajjathCK\\Day1\\HandsOn\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj": {
+    "C:\\Users\\msajjadc\\iprimed\\New-Practise-Repo-sharp\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msajjadc\\Desktop\\SajjathCK\\Day1\\HandsOn\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj",
+        "projectUniqueName": "C:\\Users\\msajjadc\\iprimed\\New-Practise-Repo-sharp\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj",
         "projectName": "HandsOnClassesAndObjects",
-        "projectPath": "C:\\Users\\msajjadc\\Desktop\\SajjathCK\\Day1\\HandsOn\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj",
+        "projectPath": "C:\\Users\\msajjadc\\iprimed\\New-Practise-Repo-sharp\\HandsOnClassesAndObjects\\HandsOnClassesAndObjects.csproj",
         "packagesPath": "C:\\Users\\msajjadc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msajjadc\\Desktop\\SajjathCK\\Day1\\HandsOn\\HandsOnClassesAndObjects\\obj\\",
+        "outputPath": "C:\\Users\\msajjadc\\iprimed\\New-Practise-Repo-sharp\\HandsOnClassesAndObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msajjadc\\AppData\\Roaming\\NuGet\\NuGet.Config",
