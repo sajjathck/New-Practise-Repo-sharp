@@ -1,0 +1,14 @@
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.AssemblyInfoInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.AssemblyInfo.cs
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.csproj.CoreCompileInputs.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\bin\Debug\net8.0\Assignment_Collections.exe
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\bin\Debug\net8.0\Assignment_Collections.deps.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\bin\Debug\net8.0\Assignment_Collections.runtimeconfig.json
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\bin\Debug\net8.0\Assignment_Collections.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\bin\Debug\net8.0\Assignment_Collections.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\refint\Assignment_Collections.dll
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.pdb
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\Assignment_Collections.genruntimeconfig.cache
+C:\Users\msajjadc\Desktop\SajjathCK\Day6\Assignment_Collections\obj\Debug\net8.0\ref\Assignment_Collections.dll
